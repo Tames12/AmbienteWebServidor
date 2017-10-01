@@ -1,0 +1,17 @@
+
+
+
+Un archivo index.php, que muestre la lista de elementos de su base de datos y con enlaces para crear y ver detalles de elementos.
+Un archivo crear.php, que muestra un formulario para digitar los datos de un nuevo elemento en la base de datos.
+Un archivo detalles.php, que recibe un identificador por medio de la URL, y muestra todos los campos de la base de datos para el elemento solicitado según el identificador suministrado.
+
+Tabla: personas
+Cedula varchar(50) PRIMARY
+nombre varchar(50)
+apellido1 varchar(50)
+apellido2 varchar(50)
+fechanacimiento date
+estadocivil varchar(20)
+provincia varchar(20)
+canton varchar(20)
+distrito varchar(20)
