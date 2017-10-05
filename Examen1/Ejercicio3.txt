@@ -1,0 +1,1 @@
+Calcule el área que requerimos cubrir de azúcar para una dona, utilizando la fórmula π 2 (R-r)(R+r), donde R=10cm y r=3cm.
